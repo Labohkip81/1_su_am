@@ -1841,6 +1841,8 @@ a:focus, a:hover{
 }
 .logo{
 	padding: 25px 0;
+	position: relative;
+	margin-top: 10px;
 }
 
 nav#primary-menu{
