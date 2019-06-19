@@ -6,12 +6,15 @@
 	.banner-1{background: rgba(0, 0, 0, 0) url("../images/banner/1.html") no-repeat scroll 25% top / 29.5% auto}
 	.banner-2 {background: rgba(0, 0, 0, 0) url("../images/banner/2.html") no-repeat scroll 86% 48%;}
 	.custom-container {margin: auto 18.8% 0;}
+	#sticky-header {background-color:#fff;}
+
 }
 
 /* Normal desktop :992px. */
 @media (min-width: 992px) and (max-width: 1169px) {
     .container {width:970px}
-    .wrapper.boxed-layout, .wrapper.boxed-layout .sticky, .wrapper.box-layout, .wrapper.box-layout .sticky {width: 970px}
+	.wrapper.boxed-layout, .wrapper.boxed-layout .sticky, .wrapper.box-layout, .wrapper.box-layout .sticky {width: 970px}
+	#sticky-header {background-color:#fff;}
 	.main-menu > li {padding-left: 20px;}
 	nav#primary-menu {margin-top: 45px;}
 	.sticky nav#primary-menu {margin-top: 15px;}
