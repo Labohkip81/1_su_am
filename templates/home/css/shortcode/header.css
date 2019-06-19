@@ -283,7 +283,7 @@ ul.dropdown > li:hover > ul.inside-menu {
 .sticky .logo {padding: 25px 0;}
 .sticky .main-menu > li > a {padding: 20px 0px;}
 .sticky nav#primary-menu.height-large ul.main-menu > li > a {padding: 30px 0;}
-.main-menu > li:hover > a, .main-menu > li.active > a{ color: #fff;}
+.main-menu > li:hover > a, .main-menu > li.active > a{ color: grey;}
 .sticky .logo img {width: 152px}
 .sticky nav#primary-menu {margin-top: 12px;}
 .logo.padding {padding: 38px 0 12px;}
