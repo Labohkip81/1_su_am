@@ -88,7 +88,7 @@
 	.login, .register-btn {margin-left: 33px;}
 	.header-top-info:last-child {margin-left: 30px;}
 	.header-search {margin-left: 35px;}
-	#sticky-header {background-color:#081822;}
+	#sticky-header {background-color:#fff;}
 	.banner-readmore {margin-top: 20px;}
     .wrapper.boxed-layout .sticky, .wrapper.box-layout .sticky {width: 750px;}
     .sticky {position: inherit;}  
@@ -267,7 +267,7 @@
     .container, .wrapper.boxed-layout, .wrapper.box-layout {width:300px}
     .mobile-menu-area {display: block;}
     #sticky-header, .wrapper.boxed-layout #sticky-header, .wrapper.box-layout #sticky-header, #sticky-header.fixed {position: inherit;}
-    #sticky-header {width: 100%;background-color:#081822;} 
+    #sticky-header {width: 100%;background-color:#fff;} 
     .logo {text-align: left;}
     .footer-container span {text-align: center; display: block}
     .sticky .logo img {width: auto;}
